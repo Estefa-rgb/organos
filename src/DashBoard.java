@@ -42,7 +42,7 @@ public class DashBoard extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        AcessPag1.setText("Log In");
+        AcessPag1.setText("Iniciar sesión");
         AcessPag1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 AcessPag1ActionPerformed(evt);
@@ -95,7 +95,7 @@ public class DashBoard extends javax.swing.JFrame {
                 .addComponent(AcessPag3)
                 .addGap(18, 18, 18)
                 .addComponent(AcessPag4)
-                .addContainerGap(148, Short.MAX_VALUE))
+                .addContainerGap(122, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

@@ -48,7 +48,7 @@
                   <Component id="AcessPag3" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="AcessPag4" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="148" max="32767" attributes="0"/>
+                  <EmptySpace pref="122" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -71,7 +71,7 @@
       <SubComponents>
         <Component class="javax.swing.JButton" name="AcessPag1">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Log In"/>
+            <Property name="text" type="java.lang.String" value="Iniciar sesi&#xf3;n"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="AcessPag1ActionPerformed"/>
